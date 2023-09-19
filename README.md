@@ -13,10 +13,10 @@ The Ticket Allocation System works with a Limited number of tickets and provides
 Users can initially book the tickets with their Name, Email & No. of Tickets.
 Tickets will be assigned to the Users with their First Name.
 
-> Main Func \
-> BookTicket Func \
-> GetFirstName Func \
-> GetUserInput Func \
-> SendTicket Func 
+> Main Function \
+> BookTicket Function \
+> GetFirstName Function \
+> GetUserInput Function \
+> SendTicket Function 
 
 Above listed the are functions for the Ticket Allocation.
